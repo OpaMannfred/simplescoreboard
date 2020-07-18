@@ -1,0 +1,5 @@
+name: SimpleScoreboard
+version: 1.0
+author: Haizon
+main: de.haizon.simplescoreboard.SimpleScoreboard
+depend: [PlaceholderAPI]
